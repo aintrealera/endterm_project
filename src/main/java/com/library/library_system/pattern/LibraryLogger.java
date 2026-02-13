@@ -16,3 +16,4 @@ public class LibraryLogger {
         System.out.println("[LIBRARY SYSTEM]: " + message);
     }
 }
+
